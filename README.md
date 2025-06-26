@@ -17,9 +17,9 @@ Focus Glow & Shadow Effects to show depth and active selection
 Movie Info Page with interactive content and call-to-action
 Immersive 3D Layouts simulating a real VR environment
 ## OUTPUT:
-![Image](https://github.com/user-attachments/assets/531c00ea-e508-4f7c-9ea6-393ed3e79391)
-![Image](https://github.com/user-attachments/assets/5451ff09-9c33-4b4c-aa4b-0e74e01aff2d)
-![Image](https://github.com/user-attachments/assets/420ae04e-3cdc-4146-b652-cfef90d05c3a)
-![Image](https://github.com/user-attachments/assets/2b6ebdad-7ce4-40a8-a4a4-a3284e2cb9d1)
+![Image](https://github.com/user-attachments/assets/28897660-137a-4224-a61c-daa1dae0b97c)
+![Image](https://github.com/user-attachments/assets/6ef81dcd-c63f-48ac-8683-9f014ccc6095)
+![Image](https://github.com/user-attachments/assets/7fdf07f8-fdc3-4143-9ef3-cc0601ccd7ac)
+![Image](https://github.com/user-attachments/assets/a0ae1fe8-9126-4c5a-babe-cc463c4673a6)
 # Screen recording of Task4-https://drive.google.com/file/d/1Iq6s-z7dHx35Xe7cBoK7qtufzdOgX5nM/view?usp=drivesdk
 
